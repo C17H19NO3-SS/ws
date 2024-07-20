@@ -1,0 +1,4 @@
+{
+    "WebServerPort": 3000,
+    "WebSocketPort": 3001
+}

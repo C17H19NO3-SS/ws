@@ -1,0 +1,6 @@
+{
+    "WebSocketProtocole": "ws",
+    "WebSocketHost": "localhost",
+    "WebSocketPort": "3001",
+    "WebSocketPath": "/"
+}
